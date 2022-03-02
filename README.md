@@ -10,3 +10,5 @@ In my case I needed two visualisations, one without gravity where I can see in o
 
 
 Version of matlab : MATLAB R2018a
+
+Article link to this modelisation: https://journals.biologists.com/jeb/article/223/13/jeb215327/222900/How-do-hoverflies-use-their-righting-reflex 
