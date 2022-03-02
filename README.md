@@ -17,3 +17,4 @@
 ### Notes
 - This repository only explains the visualization, not the modeling.
 - MATLAB version: MATLAB R2018a
+- Scientific paper link to the modeling: https://journals.biologists.com/jeb/article/223/13/jeb215327/222900/How-do-hoverflies-use-their-righting-reflex
