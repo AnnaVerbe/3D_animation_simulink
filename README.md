@@ -18,5 +18,3 @@
 - This repository only explains the visualization, not the modeling.
 - MATLAB version: MATLAB R2018a
 - Scientific paper link to the modeling: Anna Verbe, Léandre P. Varennes, Jean-Louis Vercher, Stéphane Viollet; How do hoverflies use their righting reflex?. *J Exp Biol* 1 July 2020; 223 (13): jeb215327. doi: https://doi.org/10.1242/jeb.215327
-
-[go](https://doi.org/10.1242/jeb.215327){:target="_blank" rel="noopener"}
